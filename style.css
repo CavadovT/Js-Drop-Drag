@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    text-align: center;
+}
+.a{
+    width: 400px;
+}
+.br{
+    border: 2px solid green;
+    min-height: 35px;
+    margin: 15px;
+}
+.c1 {
+    background: red;
+}
+
+.c2 {
+    background: blue;
+}
+
+.c3 {
+    background: blueviolet;
+}
+
+.c4 {
+    background: burlywood;
+}
+
+.c5 {
+    background: coral;
+}
+
+.c6 {
+    background: yellow;
+}
+
+.c7 {
+    background: crimson;
+}
+
+.c8 {
+    background: darkcyan;
+}
+
+.c9 {
+    background: darkmagenta;
+}
+
+.c10 {
+    background: mediumslateblue;
+}
+
+.c11 {
+    background: forestgreen;
+}
+
+.c12 {
+    background: gray;
+}
